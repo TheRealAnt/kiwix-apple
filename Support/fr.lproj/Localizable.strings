@@ -5,6 +5,7 @@
 // Author: Gomoko
 // Author: Hecatonchire
 // Author: MacOS Weed
+// Author: McDutchie
 // Author: SleaY
 // Author: Stephane
 // Author: Vikoula5
@@ -125,7 +126,7 @@
 "reading_settings.zoom.title" = "Zoom de la page";
 "reading_settings.zoom.reset.button" = "Réinitialiser";
 "reading_settings.external_link.title" = "Lien externe";
-"reading_settings.search_snippet.title" = "Rechercher l’extrait";
+"reading_settings.search_snippet.title" = "Extrait de recherche";
 "reading_settings.tab.reading" = "Lecture";
 "library_settings.catalog.title" = "Catalogue";
 "library_settings.button.refresh_now" = "Rafraîchir maintenant";
